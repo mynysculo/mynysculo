@@ -1,7 +1,6 @@
-- 💻 Programdor de programação lua
-- 💀 Sonho de ser comandos
-  
-## "Nunca vi um animal selvagem sentir dó de sua carcaça"
+- Blender
+- Comandos
+
 ## "Não é para quem gosta, e sim para quem tem capacidade e ama de verdade"
 - Matheus Pavelski Dupezak
 - matheus.dupezak@escola.pr.gov.br

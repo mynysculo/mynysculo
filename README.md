@@ -1,4 +1,4 @@
-- Blender
+
 - Comandos
 
 ## "Não é para quem gosta, e sim para quem tem capacidade e ama de verdade"
